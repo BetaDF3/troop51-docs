@@ -1,0 +1,16 @@
+title: "Troop 51 Documentation"
+theme: just-the-docs
+
+# Enable search
+search_enabled: true
+
+# Base URL for GitHub Pages
+baseurl: "/troop51-docs"
+url: "https://betadf3.github.io"
+
+# Navigation sidebar
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+      nav_order: 1
