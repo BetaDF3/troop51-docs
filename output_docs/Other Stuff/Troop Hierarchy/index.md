@@ -1,18 +1,375 @@
-# 👑 Troop Hierarchy
+---
 
-| `SPL - Tim Bennett - Senior Patrol` |  |  |  |  |  |  |  |  |  |  |  |
-| ----- | ----- | ----- | ----- | :---: | ----- | ----- | ----- | :---: | ----- | ----- | ----- |
-| `ASPL - Colten Strassel` |  |  |  | `ASPL - Matt Hall` |  |  |  | `TG - Jackson Bestoso` |  |  |  |
-| `SM Strassel, pstrassel78@gmail.com, will be working directly with Senior Patrol on planning and collaborating effectively during Patrol Times` |  |  |  |  |  |  |  |  |  |  |  |
-| `Experienced Scout Patrols (no guide)` |  |  |  |  |  | `Troop Guide - Jackson Bestoso` |  |  |  |  |  |
-| `Buff Buffalos` |  |  | `Mighty Crabs` |  |  | `Scorched Scorpions` |  |  | `Firehawks` |  |  |
-| `PL - James Moore` |  |  | `PL - Jacob Heartly` |  |  | `PL - Rylan Follett` |  |  | `PL - Carl Satterland` |  |  |
-| `APL - Garrett Newall` |  |  | `APL -`  |  |  | `APL -`  |  |  | `APL - Frank Moore` |  |  |
-| `Domenic Venturelli Luke Burton Max Burton Bryce Chasse`  |  |  | `1 2 3 4 5 6 7 8` |  |  | `1 2 3 4 5 6 7 8`  |  |  | `1 2 3 4 5 6 7 8`  |  |  |
 
-| `ASM - Mr. Bestoso justenbestoso@gmail.com` |  |  | `ASM - Mr. Bennett trb426@gmail.com`  |  |  | `ASM - Mr. Logan patrick@codders.org` |  |  | `ASM - Mr. Hall matthew.hawksong@gmail.com` |  |  | `Mr. Follett ??????` |  |  |
-| ----- | ----- | ----- | :---- | ----- | :---: | :---- | ----- | ----- | :---- | :---: | ----- | :---- | ----- | ----- |
-| `KEY 3` |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| `1`  |  |  |  |  | `2` |  |  |  |  | `3` |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
+<table>
+  <tr>
+    <td>SPL - Tim Bennett - Senior Patrol
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>ASPL - Colten Strassel
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>ASPL - Matt Hall
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>TG - Jackson Bestoso
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>SM Strassel, <a href="mailto:pstrassel78@gmail.com">pstrassel78@gmail.com</a>, will be working directly with Senior Patrol on planning and collaborating effectively during Patrol Times
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>Experienced Scout Patrols (no guide)
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>Troop Guide - Jackson Bestoso
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>Buff Buffalos
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>Mighty Crabs
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>Scorched Scorpions
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>Firehawks
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>PL - James Moore
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>PL - Jacob Heartly
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>PL - Rylan Follett
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>PL - Carl Satterland
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>APL - Garrett Newall
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>APL - 
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>APL - 
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>APL - Frank Moore
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>Domenic Venturelli
+<br/>Luke Burton
+<br/>Max Burton
+<br/>Bryce Chasse
+<br/>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>1
+<br/>2
+<br/>3
+<br/>4
+<br/>5
+<br/>6
+<br/>7
+<br/>8
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>1
+<br/>2
+<br/>3
+<br/>4
+<br/>5
+<br/>6
+<br/>7
+<br/>8
+<br/>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>1
+<br/>2
+<br/>3
+<br/>4
+<br/>5
+<br/>6
+<br/>7
+<br/>8
+<br/>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+</table>
+
+
+
+<table>
+  <tr>
+    <td>ASM - Mr. Bestoso <a href="mailto:justenbestoso@gmail.com">justenbestoso@gmail.com</a>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>ASM - Mr. Bennett <a href="mailto:trb426@gmail.com">trb426@gmail.com</a> 
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>ASM - Mr. Logan <a href="mailto:patrick@codders.org">patrick@codders.org</a>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>ASM - Mr. Hall <a href="mailto:matthew.hawksong@gmail.com">matthew.hawksong@gmail.com</a>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>Mr. Follett
+<br/>??????
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>KEY 3
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>1 
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>2
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>3
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+  <tr>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+    <td>
+</td>
+  </tr>
+</table>
