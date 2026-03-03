@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td><a href="mailto:henrymartynrobert.myrules@gmail.com">henrymartynrobert.myrules@gmail.com</a> 
+    <td>
 </td>
   </tr>
   <tr>
