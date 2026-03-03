@@ -48,6 +48,8 @@ Timmy \( and \), Colten \(\), Matt \(\)
 
 TM - Troop Meeting
 
+PTM - Proposed Troop Meeting
+
 PLC - Patrol Leaders Council
 
 LP - Lesson Plan
